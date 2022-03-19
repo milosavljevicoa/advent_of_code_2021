@@ -1,0 +1,17 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+    <PropertyGroup>
+        <OutputType>Exe</OutputType>
+        <TargetFramework>net6.0</TargetFramework>
+    </PropertyGroup>
+
+    <ItemGroup>
+        <Content Include="Day1\input.txt" />
+        <Compile Include="Day1\Day1_part1.fs" />
+        <Compile Include="Day1\Day1_part2.fs" />
+        <Compile Include="Day2\Day2_part1.fs" />
+        <Compile Include="Day2\Day2_part2.fs" />
+        <Content Include="Day2\input.txt" />
+    </ItemGroup>
+
+</Project>
