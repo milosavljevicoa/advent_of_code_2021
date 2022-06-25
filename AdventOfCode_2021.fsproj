@@ -18,6 +18,10 @@
         <Compile Include="Day4\Day4_part1.fs" /> 
         <Compile Include="Day4\Day4_part2.fs" /> 
         <Content Include="Day4\input.txt" /> 
+        <Compile Include="Day5\Day5_part1.fs" /> 
+        <Content Include="Day5\example.txt" /> 
+        <Content Include="Day5\input.txt" /> 
+        <Compile Include="Day5\Day5_part2.fs" />
     </ItemGroup>
 
 </Project>
